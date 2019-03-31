@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Wang&#x27;s Homepage</title>
+    <link href="https://codeceter.github.io/feed.xml" rel="self" />
+    <link href="https://codeceter.github.io" />
+    <updated>2019-03-31T21:57:46+08:00</updated>
+    <author>
+        <name>Coder</name>
+    </author>
+    <id>https://codeceter.github.io</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Coder</name>
+        </author>
+        <link href="https://codeceter.github.io/test.html"/>
+        <id>https://codeceter.github.io/test.html</id>
+
+        <updated>2019-03-31T21:57:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                    A test post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A test post.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

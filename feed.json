@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wang&#x27;s Homepage",
+    "description": "",
+    "home_page_url": "https://codeceter.github.io",
+    "feed_url": "https://codeceter.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Coder"
+    },
+    "items": [
+        {
+            "id": "https://codeceter.github.io/test.html",
+            "url": "https://codeceter.github.io/test.html",
+            "title": "Test",
+            "summary": "A test post.",
+            "content_html": "<p>A test post.</p>",
+            "author": {
+                "name": "Coder"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-31T21:56:51+08:00",
+            "date_modified": "2019-03-31T21:57:24+08:00"
+        }
+    ]
+}
